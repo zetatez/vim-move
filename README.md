@@ -1,6 +1,6 @@
 # Vim Move
 
-![vim-move demo](https://raw.githubusercontent.com/zetatez/vim-move/vim-move.gif)
+![vim-move demo](https://github.com/zetatez/vim-move/blob/main/vim-move.gif)
 
 ## Customization
 
