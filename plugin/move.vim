@@ -206,12 +206,3 @@ nnoremap <silent> g:VimMoveMoveCharRight               :<C-u> silent call <SID>M
 nnoremap <silent> g:VimMoveMoveLineHalfPageUp          :<C-u> silent call <SID>MoveLineVertically(-v:count1 * <SID>HalfPageSize())<CR>
 nnoremap <silent> g:VimMoveMoveLineHalfPageDown        :<C-u> silent call <SID>MoveLineVertically( v:count1 * <SID>HalfPageSize())<CR>
 
-" vmap <C-U> g:VimMoveMoveSelectionUp
-" vmap <C-D> g:VimMoveMoveSelectionDown
-" vmap <C-G> g:VimMoveMoveSelectionLeft
-" vmap <C-T> g:VimMoveMoveSelectionRight
-
-" nmap <C-U> g:VimMoveMoveLineUp     
-" nmap <C-D> g:VimMoveMoveLineDown   
-" nmap <C-G> g:VimMoveMoveCharLeft   
-" nmap <C-T> g:VimMoveMoveCharRight
